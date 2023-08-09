@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gian+Neves;I'm+27+years+old;I'm+from+Brazil;I'm+student+of+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gianneves&bg_color=0000&color=007fff&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <p align="center">
