@@ -6,8 +6,7 @@
 <p>:man_technologist: I'm Gian Neves, Systems Analysis and Development student;</p>
 <p><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" width="13"/> From <b>São Leopoldo - RS, Brasil</b>;</p>
 
-<p align="center">A passionate and ambitious Systems Analysis and Development student with a strong affinity for Java and a diverse skill set encompassing JavaScript, Angular and MySQL.
-Currently pursuing my degree in Systems Analysis and Development, I am dedicated to cultivating my knowledge and practical expertise in software development. My commitment to excellence and a hunger for continuous learning drives me to stay at the forefront of emerging technologies.
+<p align="center">I'm a passionate and ambitious Systems Analysis and Development student with a strong focus on web development. I have diverse skills, including JavaScript, Vue.js, PHP, and Laravel.I specialize in web system development, using Vue.js for the front end and Laravel for the back end. My commitment to excellence and continuous learning drives me to stay at the forefront of emerging technologies
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
